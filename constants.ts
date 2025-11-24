@@ -92,7 +92,7 @@ export const PROJECTS: ProjectItem[] = [
     client: "VeryPay",
     link: "https://verypay.ch/",
     description: "VeryPay is a closed-loop contactless tap-and-go payment technology designed to extend utility, increase usage of mobile money, and drive growth for Global Mobile Network Operators. As a Product Designer and Business Analyst, I bridged the gap between technical constraints and user needs. I defined requirements for the mobile wallet and NFC card interaction, creating flows that function seamlessly offline. I facilitated workshops to align stakeholders on the roadmap and translated complex payment logic into simple, user-friendly mobile interfaces.",
-    image: "https://images.unsplash.com/photo-1620714223084-87bd6c669485?q=80&w=1600&auto=format&fit=crop",
+    image: "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/cfff8b213178957.6741b54681363.png",
     images: [
       "https://images.unsplash.com/photo-1563013544-824ae1b704d3?q=80&w=1600&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?q=80&w=1600&auto=format&fit=crop"
