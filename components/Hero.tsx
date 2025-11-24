@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
     <section 
         ref={containerRef}
         onMouseMove={handleMouseMove}
-        className="min-h-screen w-full flex flex-col justify-between px-6 md:px-12 py-12 md:py-20 pt-32 border-b border-white/10 relative overflow-hidden perspective-1000 max-w-[90rem] mx-auto"
+        className="min-h-screen w-full flex flex-col justify-between px-6 py-12 md:py-20 pt-32 border-b border-white/10 relative overflow-hidden perspective-1000 max-w-[90rem] mx-auto"
     >
       
       {/* 3D Background Elements */}
